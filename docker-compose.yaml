@@ -5,7 +5,7 @@ services:
     build:
       context: .
       dockerfile: Dockerfile
-    container_name: react-prop-24
+    container_name: react-css-24
     working_dir: /usr/src/app
     volumes:
       - ./:/usr/src/app
