@@ -6,6 +6,7 @@ export default {
             fontFamily: {
                 title: ['"Pacifico"', 'cursive']
             }
+
         },
     },
     plugins: [],
